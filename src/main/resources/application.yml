@@ -1,0 +1,6 @@
+configuration:
+   projectName: Spring Boot
+
+management:
+   security:
+      enabled: false

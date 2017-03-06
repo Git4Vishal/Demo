@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.ConfigurationProject",
+      "name": "configuration",
+      "type": "com.example.ConfigurationProject"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.ConfigurationProject",
+      "name": "configuration.project-name",
+      "type": "java.lang.String"
+    }
+  ]
+}
